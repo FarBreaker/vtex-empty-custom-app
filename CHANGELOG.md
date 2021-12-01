@@ -8,6 +8,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Further optimization for dependencies and internal packets
 
+## [0.0.3] - 2012-12-01
+## Added
+- Reintroduced the messages folder for the correct visualization of VTEX Apps
+- Added small example react script to check the correct installation of every component
+
+## Changed
+- Upgraded React version to 17.0.2
+- Upgraded react-dom version to 17.0.2
+- Upgraded typescript peer dependency to 3.9.7
+- Upgraded @vtex/tsconfig peer dependency to 0.6.0
+- Upgraded @types/node peer dependency to 16.11.11
+
 ## [0.0.2] - 2021-12-01
 ## Removed
 - Unused objects folder removed
