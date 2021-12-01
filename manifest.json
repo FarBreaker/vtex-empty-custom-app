@@ -1,7 +1,7 @@
 {
   "vendor": "CHANGE-ME",
-  "name": "Change me",
-  "version": "0.0.1",
+  "name": "Changeme",
+  "version": "0.0.2",
   "title": "Change me ",
   "description": "Performance upgraded empty custom app",
   "builders": {
