@@ -1,0 +1,13 @@
+{
+  "vendor": "CHANGE-ME",
+  "name": "Change me",
+  "version": "0.0.1",
+  "title": "Change me ",
+  "description": "Performance upgraded empty custom app",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x"
+  },
+  "dependencies": {},
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

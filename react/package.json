@@ -1,0 +1,15 @@
+{
+  "license": "UNLICENSED",
+  "name": "change-me",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-intl": "^5.23.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@vtex/tsconfig": "^0.4.4",
+    "typescript": "3.9.7"
+  }
+}
