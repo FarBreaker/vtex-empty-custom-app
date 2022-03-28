@@ -6,7 +6,8 @@
   "description": "Performance upgraded empty custom app",
   "builders": {
     "react": "3.x",
-    "messages": "1.x"
+    "messages": "1.x",
+    "store": "0.x"
   },
   "dependencies": {},
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
